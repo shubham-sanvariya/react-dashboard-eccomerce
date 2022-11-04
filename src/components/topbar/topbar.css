@@ -1,0 +1,33 @@
+.topbar{
+    widows: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+.topbarWrapper{
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 30px;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.topbarIconContainer{
+    position: relative;
+}
+
+.topIconBadge{
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    background-color: red;
+    color: white;
+    
+}
