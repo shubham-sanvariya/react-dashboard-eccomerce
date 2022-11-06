@@ -1,5 +1,4 @@
 import { AttachMoney, ChatBubbleOutline, DynamicFeed, LineStyle, MailOutline, PermIdentity, Report, Storefront, Timeline, TrendingUp, WorkOutline } from '@material-ui/icons'
-import { BarChart } from 'recharts'
 import './sidebar.css'
 
 export default function Sidebar() {
