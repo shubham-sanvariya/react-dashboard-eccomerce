@@ -61,6 +61,24 @@ export const userData = [
     },
 ];
 
+export const productData = [
+    {
+        name: 'Jan',
+        "Sales": 1000,
+
+    },
+    {
+        name: 'Feb',
+        "Sales": 3000,
+
+    },
+    {
+        name: 'Mar',
+        "Sales": 5000,
+
+    },
+]    
+
 export const userRows = [
     {
         id: 1,
@@ -147,7 +165,7 @@ export const productRows = [
     {
         id: 1,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -155,7 +173,7 @@ export const productRows = [
     {
         id: 2,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -163,7 +181,7 @@ export const productRows = [
     {
         id: 3,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -171,7 +189,7 @@ export const productRows = [
     {
         id: 4,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -179,7 +197,7 @@ export const productRows = [
     {
         id: 5,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -187,7 +205,7 @@ export const productRows = [
     {
         id: 6,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -195,7 +213,7 @@ export const productRows = [
     {
         id: 7,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -203,7 +221,7 @@ export const productRows = [
     {
         id: 8,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -211,7 +229,7 @@ export const productRows = [
     {
         id: 9,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
@@ -219,7 +237,7 @@ export const productRows = [
     {
         id: 10,
         name: 'Apple Airpods',
-        img: "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTAyNnxpbWFnZS9qcGVnfGltYWdlcy9oZjgvaDg3Lzk4MjU2MDg2NjMwNzAuanBnfGRlN2MxYjQxYWMyMmU1MzFlY2E0NzkxNGQ4ZjNmNTJhZGExZjIxODQ4MTZkMjA5ZmE2YWU1N2FmNmJhOWJkYjM",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPo5ukjq53ltMsk9ILHXNCZwisqvaU7wyvA&usqp=CAU",
         stock: 123,
         status: "active",
         price: "$120.00"
